@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://Hoze:joenamakula3@shopmanager-3dcc8.mongodb.net/devconnector?retryWrites=true&w=majority",
+    "jwtSecret": "myjwttokensecretkey",
+    "githubClientId": "ff0d4b7e1dbb1ecc1000",
+    "githubSecret": "71625bf7b894746908b2fe3f2021ff07c0e62ffd"
+  }
+  
